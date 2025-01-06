@@ -10,7 +10,7 @@ A mini shell created in C for educational purposes. Current features:
 ### Build
 `make all`
 
-This program uses the GNU Readline library, which is lucensed under the GPL.
+This program uses the GNU Readline library, which is licensed under the GPL.
 For more information, refer to the GNU Readline documentation.
 
 ### To-do 
